@@ -1,0 +1,12 @@
+{
+  "name": "quizme",
+  "version": "0.0.1",
+  "description": "An application for spaced repetition",
+  "main": "index.js",
+  "author": "Johan",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "inquirer": "^9.0.1"
+  }
+}
