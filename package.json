@@ -6,6 +6,9 @@
   "author": "Johan",
   "license": "MIT",
   "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
   "dependencies": {
     "inquirer": "^9.0.1"
   }
